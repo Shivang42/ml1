@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: queen
+Class-Path: C:\Program Files\Java\javafx-sdk-11.0.2\lib\javafx.base.jar C:\Program Files\Java\javafx-sdk-11.0.2\lib\javafx.controls.jar C:\Users\Cyberdex42\Documents\Java\apps\m.jar
+

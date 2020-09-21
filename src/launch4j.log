@@ -1,0 +1,116 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\Cyberdex42\Documents\Java\apps\kk.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Cyberdex42\Documents\Java\apps\.
+Java min ver:	1.000.000
+Java max ver:	1.010.000
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6
+Check launcher:	C:\Program Files (x86)\Java\jre1.6.0_01\bin\javaw.exe (OK)
+Match:		1.006.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6.0_01
+Check launcher:	C:\Program Files (x86)\Java\jre1.6.0_01\bin\javaw.exe (OK)
+Match:		1.006.000_001
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.2
+Ignore:		1.011.000_002
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.006.000_001 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre1.6.0_01\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Cyberdex42\Documents\Java\apps\kk.exe"
+Args length:	53/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\Cyberdex42\Documents\Java\apps\st.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Cyberdex42\Documents\Java\apps\.
+Java min ver:	1.000.000
+Java max ver:	1.010.000
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6
+Check launcher:	C:\Program Files (x86)\Java\jre1.6.0_01\bin\javaw.exe (OK)
+Match:		1.006.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6.0_01
+Check launcher:	C:\Program Files (x86)\Java\jre1.6.0_01\bin\javaw.exe (OK)
+Match:		1.006.000_001
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.2
+Ignore:		1.011.000_002
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.006.000_001 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre1.6.0_01\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Cyberdex42\Documents\Java\apps\st.exe"
+Args length:	53/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\Cyberdex42\Documents\Java\apps\tb.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Cyberdex42\Documents\Java\apps\.
+Java min ver:	1.000.000
+Java max ver:	1.010.000
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6
+Check launcher:	C:\Program Files (x86)\Java\jre1.6.0_01\bin\javaw.exe (OK)
+Match:		1.006.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6.0_01
+Check launcher:	C:\Program Files (x86)\Java\jre1.6.0_01\bin\javaw.exe (OK)
+Match:		1.006.000_001
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.2
+Ignore:		1.011.000_002
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.006.000_001 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre1.6.0_01\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Cyberdex42\Documents\Java\apps\tb.exe"
+Args length:	53/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\Cyberdex42\Documents\Java\apps\tb.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Cyberdex42\Documents\Java\apps\.
+Java min ver:	1.000.000
+Java max ver:	1.010.000
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6
+Check launcher:	C:\Program Files (x86)\Java\jre1.6.0_01\bin\javaw.exe (OK)
+Match:		1.006.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6.0_01
+Check launcher:	C:\Program Files (x86)\Java\jre1.6.0_01\bin\javaw.exe (OK)
+Match:		1.006.000_001
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.2
+Ignore:		1.011.000_002
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.006.000_001 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre1.6.0_01\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Cyberdex42\Documents\Java\apps\tb.exe"
+Args length:	53/32768 chars
+Exit code:	0
